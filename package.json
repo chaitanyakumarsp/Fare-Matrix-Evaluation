@@ -1,0 +1,25 @@
+{
+  "name": "fare-matrix-evaluation",
+  "version": "1.0.0",
+  "description": "checking the travel prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanyakumarsp/Fare-Matrix-Evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chaitanyakumarsp/Fare-Matrix-Evaluation/issues"
+  },
+  "homepage": "https://github.com/chaitanyakumarsp/Fare-Matrix-Evaluation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
